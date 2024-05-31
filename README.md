@@ -1,0 +1,2 @@
+Diet Planning Health Application Using GenAI:
+This application to allows users to analyze food images and identify their nutritional makeup. Applying the power of the Google Gemini Pro Vision API in a user-friendly and advanced generative AI, the application can identify the different kinds of foods in an image and, hence, calculate the number of total calories in each type of food. We can give any additional request by typing in the prompt
